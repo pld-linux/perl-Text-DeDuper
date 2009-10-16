@@ -8,13 +8,13 @@
 Summary:	Text::DeDuper - near duplicates detection module
 #Summary(pl.UTF-8):	
 Name:		perl-Text-DeDuper
-Version:	1.00
+Version:	1.01
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Text/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	b1211e3828a28418ca2436048a91752c
+# Source0-md5:	bb1adbc25100db21acd2ccbc9c7c7328
 # generic URL, check or change before uncommenting
 #URL:		http://search.cpan.org/dist/Text-DeDuper/
 BuildRequires:	perl-devel >= 1:5.8.0
