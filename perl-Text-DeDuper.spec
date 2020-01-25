@@ -4,7 +4,6 @@
 
 %define	pdir	Text
 %define	pnam	DeDuper
-%include	/usr/lib/rpm/macros.perl
 Summary:	Text::DeDuper - near duplicates detection module
 Name:		perl-Text-DeDuper
 Version:	1.01
